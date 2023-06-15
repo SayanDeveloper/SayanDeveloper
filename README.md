@@ -15,6 +15,9 @@
 <p align="center" >
     <img  src="https://github-readme-stats.vercel.app/api?username=sayandeveloper&&show_icons=true&theme=radical"/>
 </p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandeveloper&layout=compact&theme=midnight-purple" />
+</p>
 
 ### Languages and Tools...
 <p align="center">
